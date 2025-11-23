@@ -2,36 +2,46 @@
 
 ---
 
-flowchart TD
-    A[LLMs]
-    A --> B[Architectures]
-    B --> B1[Transformer]
-    B --> B2[Decoder-Only]
-    B --> B3[Encoder-Decoder]
-    B --> B4[Mixture-of-Experts]
+```text
 
-    A --> C[Prompting]
-    C --> C1[Zero-Shot]
-    C --> C2[Few-Shot]
-    C --> C3[Chain-of-Thought]
-    C --> C4[RAG]
+LLMs
+  │
+  ├──► Architectures
+  │        │
+  │        ├──► Transformer
+  │        ├──► Decoder-Only
+  │        ├──► Encoder-Decoder
+  │        └──► Mixture-of-Experts (MoE)
+  │
+  ├──► Prompting
+  │        │
+  │        ├──► Zero-Shot
+  │        ├──► Few-Shot
+  │        ├──► Chain-of-Thought
+  │        └──► Retrieval-Augmented Generation (RAG)
+  │
+  ├──► Training
+  │        │
+  │        ├──► Pretraining
+  │        ├──► Supervised Fine-Tuning (SFT)
+  │        ├──► PEFT (LoRA, T-Few)
+  │        └──► RLHF
+  │
+  ├──► Hallucination
+  │        │
+  │        ├──► Causes
+  │        └──► Mitigation (RAG, Guardrails, Model Constraints)
+  │
+  └──► LLM Applications
+           │
+           ├──► Chatbots
+           ├──► Agents
+           ├──► Document AI
+           ├──► Code Assistants
+           └──► Search & Summarization
 
-    A --> D[Training]
-    D --> D1[Pretraining]
-    D --> D2[Supervised Fine-Tuning]
-    D --> D3[PEFT (LoRA, T-Few)]
-    D --> D4[RLHF]
 
-    A --> E[Hallucination]
-    E --> E1[Causes]
-    E --> E2[Mitigation]
-
-    A --> F[LLM Applications]
-    F --> F1[Chatbots]
-    F --> F2[Agents]
-    F --> F3[Document AI]
-    F --> F4[Code Assistants]
-    F --> F5[Search & Summarization]
+```
 
 
 
