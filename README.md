@@ -2,8 +2,6 @@
 
 ---
 
-```mermaid
-
 flowchart TD
     A[LLMs]
     A --> B[Architectures]
@@ -35,8 +33,6 @@ flowchart TD
     F --> F4[Code Assistants]
     F --> F5[Search & Summarization]
 
-
-```
 
 
 ```text
