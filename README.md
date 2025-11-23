@@ -2,7 +2,7 @@
 
 ---
 
-```mermaind
+```mermaid
 
 flowchart TD
     A[LLMs]
