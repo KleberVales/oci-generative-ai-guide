@@ -93,3 +93,9 @@ OCI Generative AI  -->  Pre-Trained Foundational Models  |--> Flexible Fine-Tuni
 
 ```
 
+---
+
+Oracle Generative AI Agent   -->  O que é o Serviço de Agentes?  -->  Arquitetura do Sistema  -->  conceitos centrais  -->  Data Source  -->  Criação de Agentes  -->  Session and Management Features
+
+--- 
+
