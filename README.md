@@ -45,6 +45,11 @@ LLMs
 
 ---
 
+OCI Generative AI  -->  Pre-Trained Foundational Models  |--> Flexible Fine-Tuning  -->  Dedicated AI Clusters  -->  Prompt Engineering  -->  Customize LLMs  --> OCI Generative AI Security
+
+
+---
+
 ```text
 
                           ┌───────────────────────────────────────────┐
