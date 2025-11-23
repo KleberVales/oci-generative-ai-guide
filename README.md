@@ -61,19 +61,21 @@ OCI Generative AI  -->  Pre-Trained Foundational Models  |--> Flexible Fine-Tuni
         │                                │                                │
         ▼                                ▼                                ▼
 ┌────────────────────┐        ┌───────────────────────┐       ┌────────────────────┐
-│     Estrutura      │        │       Benefícios       │       │     LangChain      │
-│ (Architecture)     │        │    (Step-by-Step)      │       │                    │
+│     Estrutura      │        │       Benefícios      │       │     LangChain      │
+│ (Architecture)     │        │                       │       │                    │
 └────────────────────┘        └───────────────────────┘       └────────────────────┘
         │                                │                                │
-        ▼                                │                                ▼
+        ▼                                 │                                ▼
 ┌──────────────────────────────┐          │                ┌──────────────────────────┐
-│ Generative AI Service (OCI) │          │                │       Components         │
-│ + Oracle 23ai Vector Search │          │                └──────────────────────────┘
+│ Generative AI Service (OCI)  │          │                │       Components         │
+│ + Oracle 23ai Vector Search  │          │                └──────────────────────────┘
 └──────────────────────────────┘          │                                │
                                          │                                ▼
                                          │                ┌──────────────────────────┐
                                          │                │         Prompts          │
-                                         │                └──────────────────────────┘
+                            ┌──────────────────────────┐  └──────────────────────────┘
+                            │         Prompts          │                  |
+                            └──────────────────────────┘                  |
                                          │                                │
                                          │                                ▼
                                          │                ┌──────────────────────────┐
@@ -99,3 +101,15 @@ Oracle Generative AI Agent   -->  O que é o Serviço de Agentes?  -->  Arquitet
 
 --- 
 
+
+
+
+
+
+
+
+
+
+
+
+                                         
