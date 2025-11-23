@@ -1,3 +1,3 @@
 # oci-generative-ai-guide
 
-LLMs  -->  ARchitectures  -->  Prompting  -->  Training  -->  Hallucination  -->  LLM Applications
+LLMs  -->  Architectures  -->  Prompting  -->  Training  -->  Hallucination  -->  LLM Applications
