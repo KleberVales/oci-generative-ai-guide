@@ -11,3 +11,10 @@ OCI Generative AI  -->  Pre-Trained Foundational Models  |--> Flexible Fine-Tuni
 
 ---
 
+
+                               |-->  Estrutura -->  Generative AI service + Oracle 23 ai Vector Search
+Retrieval Augmented Generation |-->  Benefits  -->  Step-by-Step
+                               |-->  LangChain -->  Components  -->  Prompts  -->  Chains  -->  Memory  -->  Oracle 23ai as a Vector Store
+
+---
+
