@@ -12,9 +12,44 @@ OCI Generative AI  -->  Pre-Trained Foundational Models  |--> Flexible Fine-Tuni
 ---
 
 
-                               |-->  Estrutura -->  Generative AI service + Oracle 23 ai Vector Search
-Retrieval Augmented Generation |-->  Benefits  -->  Step-by-Step\
-                               |-->  LangChain -->  Components  -->  Prompts  -->  Chains  -->  Memory  -->  Oracle 23ai as a Vector Store
+                          ┌───────────────────────────────────────────┐
+                          │          Retrieval Augmented Generation   │
+                          └───────────────────────────────────────────┘
+                                         │
+                                         │
+        ┌────────────────────────────────┼────────────────────────────────┐
+        │                                │                                │
+        ▼                                ▼                                ▼
+┌────────────────────┐        ┌───────────────────────┐       ┌────────────────────┐
+│     Estrutura      │        │       Benefícios       │       │     LangChain      │
+│ (Architecture)     │        │    (Step-by-Step)      │       │                    │
+└────────────────────┘        └───────────────────────┘       └────────────────────┘
+        │                                │                                │
+        ▼                                │                                ▼
+┌──────────────────────────────┐          │                ┌──────────────────────────┐
+│ Generative AI Service (OCI) │          │                │       Components         │
+│ + Oracle 23ai Vector Search │          │                └──────────────────────────┘
+└──────────────────────────────┘          │                                │
+                                         │                                ▼
+                                         │                ┌──────────────────────────┐
+                                         │                │         Prompts          │
+                                         │                └──────────────────────────┘
+                                         │                                │
+                                         │                                ▼
+                                         │                ┌──────────────────────────┐
+                                         │                │          Chains          │
+                                         │                └──────────────────────────┘
+                                         │                                │
+                                         │                                ▼
+                                         │                ┌──────────────────────────┐
+                                         │                │         Memory           │
+                                         │                └──────────────────────────┘
+                                         │                                │
+                                         │                                ▼
+                                         │                ┌──────────────────────────┐
+                                         │                │ Oracle 23ai as Vector DB │
+                                         │                └──────────────────────────┘
+
 
 ---
 
