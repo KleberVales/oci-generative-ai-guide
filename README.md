@@ -32,6 +32,11 @@
 
 ## Chatbot using Generative AI Agent service
 
+| Nº  | Página                      | Link |
+|-----|-----------------------------|------|
+| 15  | Oracle Generative AI Agent  | [15 Oracle Generative AI Agent](https://github.com/KleberVales/oci-generative-ai-guide/wiki/15-%20Oracle%20Generative%20AI%20Agent) |
+
+
 
 
 
