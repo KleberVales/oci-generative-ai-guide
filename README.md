@@ -34,7 +34,7 @@
 
 | Nº  | Página                      | Link |
 |-----|-----------------------------|------|
-| 15  | Oracle Generative AI Agent  | [15 Oracle Generative AI Agent](https://github.com/KleberVales/oci-generative-ai-guide/wiki/15-%20Oracle%20Generative%20AI%20Agent) |
+| 15  | Oracle Generative AI Agent  | [15 Oracle Generative AI Agent](https://github.com/KleberVales/oracle-generative-AI/wiki/04-Chatbot-using-Generative-AI-Agent-service) |
 
 
 
