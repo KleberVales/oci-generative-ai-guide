@@ -7,7 +7,7 @@
 | 02 | Architectures | [02 Architectures](https://github.com/KleberVales/oci-generative-ai-guide/wiki/02-Architectures) |
 | 03 | Prompting | [03 Prompting](https://github.com/KleberVales/oci-generative-ai-guide/wiki/03-Prompting) |
 | 04 | Training | [04 Training](https://github.com/KleberVales/oci-generative-ai-guide/wiki/04-Training) |
-| 05 | Hallucination | [05 Hallucination](https://github.com/KleberVales/oci-generative-ai-guide/wiki/05-%20Hallucination) |
+| 05 | Hallucination | [05 Hallucination](https://github.com/KleberVales/oci-generative-ai-guide/wiki/05-Hallucination) |
 | 06 | LLM Applications | [06 LLM Applications](https://github.com/KleberVales/oci-generative-ai-guide/wiki/06-%20LLM%20Applications) |
 
 ---
