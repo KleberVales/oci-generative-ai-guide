@@ -16,7 +16,7 @@
 
 | Nº  | Página                         | Link |
 |-----|--------------------------------|------|
-| 07  | OCI Generative AI              | [07 OCI Generative AI](https://github.com/KleberVales/oci-generative-ai-guide/wiki/07-%20OCI%20Generative%20AI) |
+| 07  | OCI Generative AI              | [07 OCI Generative AI](https://github.com/KleberVales/oci-generative-ai-guide/wiki/07-OCI-Generative-AI) |
 | 08  | Pre-Trained Foundational Models | [08 Pre-Trained Foundational Models](https://github.com/KleberVales/oci-generative-ai-guide/wiki/08-%20Pre-Trained%20Foundational%20Models) |
 | 09  | Training OCI                   | [09 Training OCI](https://github.com/KleberVales/oci-generative-ai-guide/wiki/09-%20Training%20OCI) |
 | 10  | Dedicated AI Clusters          | [10 Dedicated AI Clusters](https://github.com/KleberVales/oci-generative-ai-guide/wiki/10-%20Dedicated%20AI%20Clusters) |
